@@ -366,9 +366,9 @@
 
 		\vspace{4mm}
 
-		\profilesection{Mini Projects}{1.7cm}
+		%\profilesection{Mini Projects}{1.7cm}
 
-			\projects
+		%	\projects
 	\end{textblock}
 }
 
