@@ -324,12 +324,14 @@
 
 		{\large \textbf{Tools}}
 
+			\countProgrammingLanguage{MS Office}{97}
 			\countProgrammingLanguage{Spss}{97}
-			\countProgrammingLanguage{Matlab}{90}
-			\countProgrammingLanguage{Eviews}{95}
+			\countProgrammingLanguage{Matlab}{92}
+			\countProgrammingLanguage{Eviews}{74}
 			\countProgrammingLanguage{Mathematica}{80}
-			\countProgrammingLanguage{Efchaos}{75}
-			\countProgrammingLanguage{Maxima}{70}
+			\countProgrammingLanguage{Efchaos}{95}
+			\countProgrammingLanguage{Maxima}{99}
+			\countProgrammingLanguage{R}{60}
 
 		\vspace{2mm}
 
@@ -342,7 +344,7 @@
 		{\large \textbf{OS}}
 
 			\countProgrammingLanguage{Windows}{100}
-			\countProgrammingLanguage{GNU/Linux}{65}
+			\countProgrammingLanguage{GNU/Linux}{85}
 
 	\end{textblock}
 }
