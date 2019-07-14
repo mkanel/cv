@@ -337,7 +337,7 @@
 
 		{\large \textbf{Programming}}
 
-			\countProgrammingLanguage{Python}{3}
+			\countProgrammingLanguage{Python}{10}
 
 		\vspace{2mm}
 
