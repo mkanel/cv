@@ -1,0 +1,9 @@
+# Latex
+*.pdf
+*.log
+*.aux
+*.swp
+*.gz
+
+# Emacs
+*~
