@@ -2,7 +2,7 @@
 
 ### Description
 
-> Maria Kaneli Curriculum_vitae as a Data Analyst Engineer.
+> Maria Kaneli Curriculum_vitae as an Economist.
 
 ### Dependencies:
 
