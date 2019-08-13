@@ -324,14 +324,14 @@
 
 		{\large \textbf{Tools}}
 
-			\countProgrammingLanguage{MS Office}{97}
-			\countProgrammingLanguage{Spss}{97}
-			\countProgrammingLanguage{Matlab}{92}
-			\countProgrammingLanguage{Eviews}{74}
-			\countProgrammingLanguage{Mathematica}{80}
-			\countProgrammingLanguage{Efchaos}{95}
-			\countProgrammingLanguage{Maxima}{99}
-			\countProgrammingLanguage{R}{60}
+			\countProgrammingLanguage{MS Office}{90}
+			\countProgrammingLanguage{Spss}{75}
+			\countProgrammingLanguage{Matlab}{65}
+			\countProgrammingLanguage{Eviews}{50}
+			\countProgrammingLanguage{Mathematica}{45}
+			\countProgrammingLanguage{Efchaos}{90}
+			\countProgrammingLanguage{Maxima}{95}
+			\countProgrammingLanguage{R}{45}
 
 		\vspace{2mm}
 
